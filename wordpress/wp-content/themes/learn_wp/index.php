@@ -16,6 +16,8 @@
 
 	<body body_class(); ?>>
 
+	<h1>This the Index file</h1>
+
 
 		<?php wp_footer(); ?>
 	</body>
